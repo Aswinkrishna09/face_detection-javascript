@@ -1,0 +1,15 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "face-api.min.js",
+  "dependencies": {
+    "face-api.js": "^0.22.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
